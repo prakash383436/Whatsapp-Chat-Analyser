@@ -8,3 +8,4 @@ Users can see Total messages, words, media and link shared in the group.
 Monthly and daily timeline for the message is shown using line charts.
 Top five busy users in group using graph and list of users with percentage of use. 
 Heat map shows hourly activity of users for corresponding day using heat map.
+The chart below shows the top twenty most common words as well as the percentage of use for each type of emojie.
